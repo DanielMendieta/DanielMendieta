@@ -1,5 +1,5 @@
 <h1 align="center">Bienvenidos a mi repositorio👋.</h1>
-<h3 align="center">Soy Ingeniero de Datos en Argentina.</h3>
+
 
 - 💼Portfolio [mendietadev.pythonanywhere.com](mendietadev.pythonanywhere.com)
 
