@@ -1,5 +1,5 @@
 <h1 align="center">Agradezco tu visita♥</h1>
-- 📫 Mándame un e-mail mendietadaniel1994@gmail.com
+- 📫 Mándame un e-mail a mendietadaniel1994@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
